@@ -1,0 +1,73 @@
+id: PCE4B240B
+initial_creation_type: input
+source_metadata:
+  title: Longchen Rabjam Series
+  language: it
+  description: 'Texts by and about Longchen Rabjam (klong chen rab ''byams, 1308-1364),
+    also known as Drimé Özer (dri med ''od zer), who is widely acknowledged as the
+    greatest exponent of Dzogpachenpo, or the Great Perfection, in Tibetan history:'
+  volume:
+    ed2f1716eeaf48258e3ff85046c1d4c0:
+      title: 'A Mirror Revealing the Crucial Points: Advice on the Ultimate Meaning'
+      parent: Advice
+    8f30bf187d4146e986c9853d3528463e:
+      title: 'A Wish-Fulfilling Gem: Guidance on the Meaning of Being at Ease with
+        Illusion, A Dzogchen Teaching'
+      parent: Advice
+    524c71a80aeb4d9ab593b94266067a70:
+      title: 'Crucial Advice: A Complete Set of Instructions for the Bardos'
+      parent: Advice
+    b83c4751b59e447eb45e5970c594f724:
+      title: Song of the Enchanting Wildwoods
+      parent: Advice
+    23f8fb5c68eb4d989521f0acaafa935c:
+      title: Thirty Pieces of Heart Advice
+      parent: Advice
+    8bdf206bf6ab43b38133a5fb9905309a:
+      title: 'From ''Finding Comfort and Ease in Meditation'': A Guide to Locations
+        for Cultivating Samadhi'
+      parent: Meditation
+    77ff08fde33e4f9583e86f9790af1ff3:
+      title: 'From ''Finding Comfort and Ease in Meditation'': The Practitioner of
+        Meditation'
+      parent: Meditation
+    a4ea71e0dfb54e61aae618065f2c9a95:
+      title: The Prayer that Swiftly Fulfils All Wishes (Sampa Nyur Drupma)
+      parent: Guru Rinpoche Prayers
+    35b88bcb59ad4b32bd3a94884566ff09:
+      title: Guru Yoga of the Great Omniscient One, Longchenpa
+      parent: Guru Yoga
+    61e439f0fcc542348c927211ec8fe381:
+      title: 'Rain of Wisdom, Love and Spiritual Power: A Guru Yoga of the Three Mañjughoṣas
+        of the Land of Snow'
+      parent: Guru Yoga
+    fe9c74ea962045a49e1dbed951afd525:
+      title: Prayer to Longchenpa (Adapted from the Words of Mipham Rinpoche)
+      parent: Lineage Prayers
+    aa86d4639f28479d9ca28dbdb49fc771:
+      title: Prayer to the Omniscient Longchen Rabjam
+      parent: Lineage Prayers
+    ce4ef84e8572496d88cb7babed2f6cbb:
+      title: In Praise of Longchenpa – The Greatness of the Omniscient Longchen Rabjam
+      parent: Praise
+    b0914477b61d4baa85b390a7dde9e33b:
+      title: Dedication (Sangye tenpa...)
+      parent: Prayers
+    2cde8b7b06854b5a87378a31753428e2:
+      title: Food Offering Prayer
+      parent: Prayers
+    b31b1b2989164bfa9a38d48781d44bd0:
+      title: 'Gyang Lu: A Song of Calling from Afar'
+      parent: Prayers
+    75b9be1a4dce4b9885fa51e49198cb69:
+      title: 'The Pure Three Kāyas Ablaze in Perfect Splendour: A Prayer Based on
+        the Meaning of the Great Perfection'
+      parent: Prayers
+    3a36ee1c240748bda361ac8627f78c8e:
+      title: Prayer and Call from Afar to the Great Omniscient One
+      parent: Calling the Guru from Afar
+    b75db850e76b4ac7b7dfd5a1e29bad2a:
+      title: The Song of the Vajra
+      parent: Songs
+created_at: '2022-03-01T00:41:21.601862'
+last_modified_at: '2022-03-01T00:41:21.601865'
